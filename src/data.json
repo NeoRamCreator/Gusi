@@ -1,0 +1,70 @@
+{
+    "gusi": [
+        {
+            "id": 1,
+            "speed": 14,
+            "flight": 3,
+            "strength": 8,
+            "attack": 14,
+            "defense": 7,
+            "volume": 11,
+            "img": "g1"
+        },
+        {
+            "id": 2,
+            "speed": 15,
+            "flight": 7,
+            "strength": 8,
+            "attack": 15,
+            "defense": 11,
+            "volume": 7,
+            "img": "g2"
+
+        },
+        {
+            "id": 3,
+            "speed": 14,
+            "flight": 15,
+            "strength": 8,
+            "attack": 7,
+            "defense": 7,
+            "volume": 11,
+            "img": "g3"
+
+        },
+        {
+            "id": 4,
+            "speed": 6,
+            "flight": 3,
+            "strength": 11,
+            "attack": 14,
+            "defense": 7,
+            "volume": 6,
+            "img": "g4"
+
+        },
+        {
+            "id": 5,
+            "speed": 11,
+            "flight": 8,
+            "strength": 8,
+            "attack": 8,
+            "defense": 7,
+            "volume": 14,
+            "img": "g5"
+
+        },
+        {
+            "id": 6,
+            "speed": 4,
+            "flight": 1,
+            "strength": 15,
+            "attack": 14,
+            "defense": 12,
+            "volume": 3,
+            "img": "g6"
+
+        }
+    ],
+    "home": 1
+}
